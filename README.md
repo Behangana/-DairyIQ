@@ -13,7 +13,7 @@ Developed using:
 
 ## 🚀 Features
 
-- ✅ Predicts **High** or **Low** milk quality
+- ✅ Predicts **High**, **moderate** or **Low** milk quality
 - 🧪 Interactive web form for input
 - 📈 Built-in machine learning model (`RandomForestClassifier`)
 - 🧠 Model saved and reused via `joblib`

@@ -1,7 +1,7 @@
-# DairyIQ - Milk Quality Prediction and Analytics System
+# DairyIQ - Milk Quality Classification System
 
 **DairyIQ** is a machine learning-powered web application for raw cow milk
-quality prediction, batch record management, standards-based observations,
+quality classification, batch record management, standards-based observations,
 analytics, and PDF reporting.
 
 The system uses a **Laravel + Inertia/Vue** application for the user-facing
